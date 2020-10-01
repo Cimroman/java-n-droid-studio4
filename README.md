@@ -58,6 +58,7 @@ an issue. Pull request are greatly appreciated.
 
 ## Licence
 
+    Copyright (c) 2020 Jaroslav Cimrman &
     Copyright (c) 2017 by Tran Le Duy
 
     Licensed under the Apache License, Version 2.0 (the "License");
